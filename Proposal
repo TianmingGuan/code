@@ -2,4 +2,3 @@
 #A game about pong
 #This software  will run a pong game.It will contain two pong paddles and a ball.The ball will move in the middle, and if the ball touches the boundary, points will be added or deducted.
 #I think I can do it before the deadline where the ball moves in the middle and the racket can be controlled to hit the ball back.
-#I'm hoping by the deadline I can generate something to make the ball have different effects, and have one of the paddles be controlled by an AI.
